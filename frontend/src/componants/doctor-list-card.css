@@ -1,0 +1,7 @@
+.doctor-card-container
+{
+    border: 2px solid red;
+    width: 90%;
+    height: auto;
+    padding: 10px;
+}

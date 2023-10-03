@@ -1,0 +1,84 @@
+/* Style for div1 */
+.div1 {
+    float: left;
+    width: 50%; /* Adjust the width as needed */
+  }
+  
+  /* Style for div2 */
+  .div2 {
+    padding: 10px;
+    float: left;
+    width: 50%; /* Adjust the width as needed */
+  }
+  
+  .dull {
+    background-color: rgb(255, 0, 0);
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+  }
+  
+  .clickable {
+    background-color: rgb(79, 197, 79);
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 900;
+    color: white;
+    border-radius: 5px;
+  }
+  /* Clear the floats and stack divs as columns on smaller screens */
+  @media (max-width: 768px) {
+    .div1,
+    .div2 {
+      width: 100%;
+      float: none;
+    }
+  }
+  /* Style for div1 */
+.div1 {
+    float: left;
+    width: 50%; /* Adjust the width as needed */
+  }
+  
+  /* Style for div2 */
+  .div2 {
+    padding: 10px;
+    float: left;
+    width: 50%; /* Adjust the width as needed */
+  }
+  
+  .dull {
+    background-color: rgb(255, 0, 0);
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+  }
+  
+  .clickable {
+    background-color: rgb(79, 197, 79);
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 900;
+    color: white;
+    border-radius: 5px;
+  }
+  /* Clear the floats and stack divs as columns on smaller screens */
+  @media (max-width: 768px) {
+    .div1,
+    .div2 {
+      width: 100%;
+      float: none;
+    }
+  }

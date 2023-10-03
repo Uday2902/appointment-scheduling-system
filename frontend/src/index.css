@@ -1,0 +1,40 @@
+/* body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  background: 
+                        linear-gradient(230deg, #00fffb 20%, #08d9d600 0%) repeat scroll 0% 0%,
+                        linear-gradient(200deg, rgb(255, 0, 60) 50%,  #cc2a5000 50%) repeat scroll 100% 0%,
+                        linear-gradient(300deg, #ff9900 50%, #08d9d600 50%) repeat scroll 100% 0%,
+                        linear-gradient(110deg, #ffffff 20%, #08d9d600 0%) repeat scroll 100% 0%,
+                        linear-gradient(0deg, #f200ff 100%, #08d9d100 0%) repeat scroll 100% 0%;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+
+* {
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Nunito', sans-serif;
+  
+}
+
+html{
+  /* border: 2px solid green; */
+}
+
+body {
+
+  /* border: 2px solid yellow; */
+}
+
+/* .nav-pills .nav-link {
+
+  margin: 0;
+}
+
+.tab-content {
+
+  width: 100%;
+} */
